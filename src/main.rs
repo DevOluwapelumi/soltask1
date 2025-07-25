@@ -79,7 +79,7 @@ pub mod questions {
         ///
         /// a) It uses Ethereum Virtual Machine (EVM).
         /// b) It describes all the states required to read and write to.
-        /// c) It uses proof of stake consensus.
+        /// c) It uses proof-of-stake consensus.
         /// d) It splits each transaction into micro-transactions that can run independently.
         'b'
     }
