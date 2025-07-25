@@ -57,7 +57,7 @@ pub mod questions {
         'c'
     }
     pub fn question_7() -> char {
-        /// What does Gulf Stream serve as in Solana?
+        /// What does the Gulf Stream serve as in Solana?
         ///
         /// a) A mempool-less solution for forwarding and storing transactions before processing.
         /// b) A memory pool solution for storing processed transactions.
