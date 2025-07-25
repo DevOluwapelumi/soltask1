@@ -37,6 +37,7 @@ pub mod questions {
         /// c) Change of the state using CPU (banking).
         /// d) Write to the disk in kernel space and send out via network card (I/O).
         'b'
+    }
     pub fn question_5() -> char {
         /// In Turbine's data propagation system, what determines which nodes receive priority for message forwarding?
         ///
@@ -134,7 +135,7 @@ pub mod questions {
         /// b) Two transactions processed in parallel can write to the same account.
         /// c) Two transactions can be processed in parallel ONLY if the accounts they read from do not overlap and the accounts they write to do not overlap.
         /// d) Any two transactions can be processed in parallel.
-        'c'
+        'a'
     }
 }
 
